@@ -1,0 +1,11 @@
+GET http://localhost:3030
+
+###
+
+POST http://localhost:3030/inc
+
+###
+POST http://localhost:3030/dec
+
+###
+POST http://localhost:3030/die
